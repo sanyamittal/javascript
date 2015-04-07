@@ -1,0 +1,28 @@
+.countdown-container {
+    width: 100%;
+    position: absolute;
+    top: 45%;
+    left: 0;
+    transform:  translateY(-50%);
+}
+
+.countdown {
+    font-size: 2em;
+    width: 100%;
+    text-align: center;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 100;
+    color: #999;
+}
+
+#countdownValue {
+    font-size: 10em;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 100;
+    color: #AAA;
+}
